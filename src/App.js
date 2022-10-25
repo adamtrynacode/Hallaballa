@@ -9,6 +9,9 @@ function App() {
         <p>
           Hallaballa inshallah
         </p>
+        <p>
+        Kul tekst
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
